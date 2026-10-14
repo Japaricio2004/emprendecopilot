@@ -1,0 +1,7 @@
+# Imagen principal de la landing
+
+Archivo: `dist/emprendedora-hero.png`. Creada con la herramienta integrada ImageGen. Imagen ilustrativa; no representa a una clienta real.
+
+Prompt utilizado:
+
+Create a premium editorial lifestyle photograph for a Peruvian startup website EmprendeCopilot. Wide horizontal composition approximately 16:9 or wider. A young adult Peruvian Latina small business owner around 29 with dark tied hair wearing a muted lavender apron, calmly organizing her artisan online baking business at a light natural wood counter. She is reviewing orders on a laptop while holding a smartphone naturally. Beautiful realistic cakes and boxes of cupcakes nearby, two neat takeaway kraft pastry boxes, a small notebook. Contemporary cozy independent home bakery in Lima, soft natural daylight from one side, gentle lavender accents, cream plaster walls, stylish but accessible authentic small entrepreneur environment. Cinematic high-end commercial photography, tactile natural materials, professional art direction, warm human confidence, sophisticated restrained color grading, beautiful depth, realistic hands, landscape shot showing workspace and woman. Laptop screen angled away, no readable interface or text. No embedded captions, no logos, no text, no dashboards overlaid, no finance/bank/office corporate feel. It should communicate a real small entrepreneur gaining clarity and time, integrated into a refined dark navy and purple SaaS landing page.
