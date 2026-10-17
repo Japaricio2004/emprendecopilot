@@ -10,4 +10,4 @@ Los rubros, campos y reglas recuperados están documentados en `PLATAFORMA-ANTIG
 
 La aplicación inicia sin ventas ficticias. “Cargar ejemplos de prueba” añade registros etiquetados como ejemplo sin borrar los actuales. El testimonio de la landing es ficticio. Las fotografías ilustrativas se cargan desde Unsplash y requieren conexión.
 
-Para modificar el diseño edita `dist/styles.css`, el contenido en `dist/index.html` y las interacciones en `dist/app.js`.
+Para modificar el diseño edita `dist/editorial.css`, el contenido en `dist/index.html` y las interacciones de presentación en `dist/editorial.js` y el registro en `dist/app.js`.
